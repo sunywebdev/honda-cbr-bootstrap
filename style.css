@@ -1,9 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins',
+        sans-serif;
+}
+
 /* -- header section start -- */
+header {
+    background-color: #264653;
+}
+
+header p {
+    color: #E0E0E0;
+}
+
+header button {
+    background-color: #E76F51 !important;
+}
+
+p {
+    font-weight: 300 !important;
+    color: #6C6C6C;
+
+}
+
+h1 {
+    font-weight: 800 !important;
+    font-size: 36px !important;
+}
 
 /* -- header section end -- */
 
 
 /* -- main section start -- */
+.theme-color {
+    color: #E76F51;
+}
+
+.bikes-section-heading p {
+    font-weight: 600 !important;
+}
+
+.bikes-section .grayscale {
+    filter: grayscale(100%);
+}
+
+.client p {
+    font-weight: 600 !important;
+}
+
+.name {
+    color: #23A6F0;
+}
+
+.find-us-section iframe {
+    height: 70vh;
+}
+
+.newsletter-section {
+    background-color: #264653;
+}
+
+.newsletter-section button {
+    background-color: #E76F51;
+}
+
+.newsletter-section form {
+    width: 55vw;
+    margin: 0 auto;
+}
+
+
+
 
 /* -- main section end -- */
 
