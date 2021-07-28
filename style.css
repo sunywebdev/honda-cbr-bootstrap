@@ -71,11 +71,11 @@ h1 {
 }
 
 
-
-
 /* -- main section end -- */
 
 
-/* -- footer section start -- */
-
-/* -- footer section end -- */
+@media (max-width: 576px) {
+    .find-us-section iframe {
+        height: 50vh;
+    }
+}
